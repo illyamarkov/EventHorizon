@@ -1,0 +1,86 @@
+This is game is quite complex, and the simple rules I provided may not be enough for everyone.
+This will explain the game in better detail.
+
+OBJECTIVE: Reach the inhabitable planet. Every three seconds, you iterate one day, and you travel a certain disctance.
+Your objective is to travel the distance between Earth, and the distant planet.
+
+SOME STUFF TO KNOW: This is a resource, and people management game. People are given random names, and trades. Depending on the trade, the more
+points you'll get into a certain field. There are five fields: medicine, education, faith, military, and politics.
+These points max out at 10, and can be a minimum of 0.
+You can use these points to complete tasks, however it is best to stay in the high point range for a variety of benefits.
+
+Encounters can occur with various different objects. These can be satelites, space debris, deep space probes, planets, asteroids, or comets.
+You can land on the larger ones and begin mining for resources. Or salvage the smaller ones.
+(There are also encounters with people, and they can heavily influence the point systems)
+External dangers also exist, and unexpected events can occur that damage the components in your ship.
+(These events can also be internal)
+
+Sanity is a basic human characteristic, and it exists in this game under STY.
+This will go down, or up (with a max of 100, and a min of 0) depending on events that could happen.
+Negative impacts could cause sanity to decrease, but positive impacts could cause sanity to increase.
+Once someomone reaches 0 sanity, there is a chance that they will open the airlock and kill everyone.
+
+	BASIC FUNCTIONS: To exit to the main screen, you can press ESC at any time. Besides that, you can press "c" for console,
+"i" for information, and "a" for antenna.
+
+	THE CONSOLE is the most important part of the game. It is where you can made actions.
+Console navigation is quite simple, you can type in the options on the screen, and it will take you to them.
+Press ENTER to enter that field, and BACKSPACE to erase everything you were typing.
+
+The console has 3 different sections: ME, CREW, and SHIP.
+
+The first option is complements towards you, the commander. It's a good ego boost.
+The second option is to have access to the people who inahbit the ship, and monitor their stats.
+The third option is to monitor the stats of the ship more closely, and also incubate children.
+
+	THE ANTENNA allows you to see the basic information about the ship.
+O2 is OXYGEN, FOD is FOOD, H2O is WATER, TMP is TEMPERATURE, and PRS is PRESSURE.
+
+O2 is dependant on OxyGens, FOD is dependant on NutritionGens, H2O is dependant on filters. But TMP and PRS is affected externally (planets, asteroids, comets).
+If a day passes with O2 at 0, everyone dies. Is a week passes without H2O, everyone dies.
+Hunger scales to a maximum of 60 days to Faith after 6, but by default 30 days is enough to die. 
+A day with over 350K or 100PSI will cause everyone to die.
+
+OxyGens, NutritionGens, and WaterPurifiers can be destroyed, and require education points to repair.
+
+	THE INFORMATION BOOKLET is also refered to as "The Deep space Voyager Handbook™" due to it's explanatory capabilites.
+You can basically find this information there, except much more simple.
+
+	CREW: These are the people on the ship, they will all inevitably die at around the age of 85, and also need to birthed into this world.
+People are first born as one of three options: CHILD, PRODIGY, and MIRACLE.
+The prodigy has a 5% chance of being born, and the miracle has a 1/1000 chance of being born.
+After reaching the age of 18, they persue a trade. Depending on how giften they are, the more points go towards that trade.
+If there are no more poeple on the ship, the game ends because humanity perished.
+
+	SHIP: This is the area which you live in. Parts of this was heavily discussed, however there is more to mention.
+The ship has two different types of substance it stores: Fuel, and Radioacitve Material.
+Fuel is essentially hydrogen, and radioactive material is usually Pu-239.
+Fuel is released to accelerate, and radioactive material is converted to electricity by the Radioisotope Thermoelectric Generators.
+You constantly use electricity, so Radioactive Material is very useful.
+The artificial womb is a crucial part of the ship, is allows humanity to continue.
+The artificial womb can only be used if there are less than 9 people on the ship, and is gametes are available.
+If there are less than 10% gametes capacity left, you lose because there is no way to coninute huamnity.
+The fetus takes 9 months to fully grow, and will not be of any use for the first 18 years of their life.
+
+SALVAGING A RESOURCE: To salvage a resource, simply confirm the salvaging request.
+	If you have enough materials to salvage it, the salvaging process will begin.
+After the salvaging is complete, the system returns what you have recieved from the salvage.
+In the first few Astronomical Units of the game, you will modtly see space debris, and satelites.
+Later on you may find a deep space probe.
+
+	LANDING: To land on something, you have to confirm the landing sequence.
+Landing costs fuel, and lifting off costs fuel, so you have to be careful.
+There is typically a limit to how long you can stay on something.
+Comets release large amounts of heat, you will exceed the heat limit and die if you stay on one for too long. However, there is loads of fuel on them.
+Asteroid provide you with lots of pressure, and you will die if you exceed a pressure limit. But they do contain Radioacitve Material.
+Planets seem relatively safe, and they provide you with both resources. However they are unpredicatable.
+
+	ARGUMENTS AND CONCERNS: Those who inhabit your ship may face problems sometimes, and it's your job to sort them out.
+They could be mild fears, or insignificant complaints. However, sometimes they can result in you losing the game.
+You have to be careful with what you select, because an incorrect selection can cause a loss in sanity.
+The descisions are usually based on the trade of the person, or tension between two people from previous arguments.
+If you have high politics, you may be able to execute certain crew members if they are argumentative with a majority of others.
+Crew members are more likely to feel comfortable if military is higher, this also extends the age expectancy.
+Crew members can face health emergencies, and they will perish if they do not receive medication quickly.
+This can me proivided from the medicine stat, and can greatly improve your survivability.
+
